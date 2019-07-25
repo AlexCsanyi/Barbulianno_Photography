@@ -1,5 +1,5 @@
-# Barbulianno_Photography
-This is a concept landing-page design for Barbulianno Photography
+# Photograph website template
+This is a concept landing-page design for a photography website
 
 #mobile-first
 #1-page design
